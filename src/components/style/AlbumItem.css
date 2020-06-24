@@ -1,0 +1,11 @@
+.item_container {
+    display: block;
+    height: 250px;
+    margin: 50px 10%;
+}
+
+.item_container h5 {
+    float: left;
+    font-size: 18px;
+    margin: 0;
+}
